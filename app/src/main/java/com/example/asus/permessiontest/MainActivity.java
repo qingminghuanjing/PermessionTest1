@@ -6,6 +6,9 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 
+/**
+ * Created by 朱凤杰 on 2018-3-7.
+ */
 public class MainActivity extends MPermissionsActivity {
 
     @Override
