@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by yuandl on 2016-11-16.
+ * Created by 朱凤杰 on 2018-3-7.
  */
 
 public class MPermissionsActivity extends AppCompatActivity {
